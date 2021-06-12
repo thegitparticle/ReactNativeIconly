@@ -1,0 +1,48 @@
+{
+  "name": "react-native-iconly-tgp",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.2",
+    "react-native-custom-icon": "^0.0.3",
+    "react-native-vector-icons": "^8.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "7.14.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.64.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "React Native implementation of the cute Iconly icons by Junior Garcia. The default package is only available for react on web. So, this library implements the icons using .ttf files of icons for the most performant experience possible on react native mobile. Works for both iOS and Android - uses the same process as the widely used react-native-vector-icons.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegitparticle/react-native-iconly-tgp.git"
+  },
+  "keywords": [
+    "icons",
+    "react-native",
+    "iconly"
+  ],
+  "author": "thegitparticle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegitparticle/react-native-iconly-tgp/issues"
+  },
+  "homepage": "https://github.com/thegitparticle/react-native-iconly-tgp#readme"
+}
