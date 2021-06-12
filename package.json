@@ -1,5 +1,5 @@
 {
-  "name": "react-native-iconly-tgp",
+  "name": "react-native-tgp-iconly",
   "version": "0.0.1",
   "private": false,
   "scripts": {
@@ -32,7 +32,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thegitparticle/react-native-iconly-tgp.git"
+    "url": "git+https://github.com/thegitparticle/ReactNativeIconly.git"
   },
   "keywords": [
     "icons",
@@ -42,7 +42,7 @@
   "author": "thegitparticle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thegitparticle/react-native-iconly-tgp/issues"
+    "url": "https://github.com/thegitparticle/ReactNativeIconly/issues"
   },
-  "homepage": "https://github.com/thegitparticle/react-native-iconly-tgp#readme"
+  "homepage": "https://github.com/thegitparticle/ReactNativeIconly#readme"
 }
